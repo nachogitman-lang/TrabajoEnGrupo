@@ -1,0 +1,41 @@
+body {
+background-color: #efece9
+}
+
+
+.header-img {
+  width: 100%;
+  height: 600px;
+  display: block;
+  object-fit: cover; /* recorta la imagen sin deformarla */
+}
+
+.ul-css {
+  font-size: 2.7em;
+}
+
+.conoce-el-camping-la-cumbre {
+  font-size: 4em;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.h3-estilos {
+  font-size: 2em;
+  color: #f0d8cd;
+  background-color: #78574a;
+
+}
+
+.li-css {
+ color: #78574a
+}
+
+.text-color {
+  color: #775548;
+}
+
+.h3-estilo-diff {
+  font-size: 2em;
+  color: #d8b03a;
+  background-color: #78574a;
+}
